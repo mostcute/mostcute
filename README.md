@@ -1,5 +1,7 @@
 ### Hi there 👋
+![My GitHub](https://github-readme-stats.vercel.app/api?username=mostcute&count_private=true&show_icons=true&theme=vue&include_all_commits=true)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mostcute&theme=vue&count_private=true&show_icons=true&layout=compact)
 <!--
 **mostcute/mostcute** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
